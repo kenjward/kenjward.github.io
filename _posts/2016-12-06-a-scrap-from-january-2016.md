@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A scrap from January 2016
+---
 
 ### General overview: Classes, great! Life, great!
 
