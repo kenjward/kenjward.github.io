@@ -11,7 +11,7 @@ title: Ken Ward CV
 
 #### Updated December 6, 2016. Documents are hyperlinked where applicable.
 
-<br>
+<br><br>
 
 ### Education
 **PhD in Journalism**, E.W. Scripps School of Journalism, Ohio University, advised by Dr. Mike Sweeney, anticipated 2018
@@ -21,20 +21,20 @@ title: Ken Ward CV
 **M.A. in Communication**, Wichita State University, 3.98 GPA, advised by Dr. Lisa Parcell, 2014
 
 **B.A. in Communication**, Bethel College, North Newton, KS, 3.49 GPA, advised by Dr. Christine Crouse-Dick, 2011
-<br>
+<br><br>
 
 ### Doctoral dissertation (in progress)
 A historical analysis of the competition between the *Denver Post* and *Rocky Mountain News*, following major developments at both newspapers from their inceptions in the nineteenth century through periods of intense competition in the twentieth century, concluding with a detailed investigation of the causes leading to the 2009 closure of the *Rocky Mountain News*. Chaired by Dr. Mike Sweeney, Ohio University.
-<br>
+<br><br>
 
 ### Master’s thesis: “Section and Silver: Editorial Representations of Political Regionalism and Bimetallism in the Cripple Creek Mining District Press, 1894-1904”
 An analysis of the utilization of the so-called “silver question” by newspaper editors in Colorado’s Cripple Creek Mining District. Findings suggest questions surrounding federal bimetallism monetary policy had a much stronger influence on editors in the US Mountain West than previously understood by media historians.
 Chaired by Dr. Lisa Parcell, Wichita State University.
-<br>
+<br><br>
 
 ### Refereed articles
 “Crafty Ads: Branding and Product Nesting in the Arts and Crafts Magazine The Craftsman,” Journal of Magazine and New Media Research (publication pending).
-<br>
+<br><br>
 
 ### Industry experience
 **Staff Writer, *McPherson Sentinel*, McPherson, KS, 2011-2012.** Full-time writer and reporter on the city and county beats and editorial page editor. In addition to writing and editing, was responsible for laying out and proofing several pages daily, photographing and capturing video to compliment assignments, and updating the newspaper’s website. Received award from the Kansas Press Association for news and editorial writing.
@@ -44,7 +44,7 @@ Chaired by Dr. Lisa Parcell, Wichita State University.
 **Editorialist and Reporter, *Collegian*, Bethel College, KS, 2009-2011.** Wrote a regular humor column and covered news stories for the college newspaper, the *Collegian*.
 
 **Student Station Manager, Producer, 88.1 KBCU FM, Bethel College, KS, 2008-2009.** Managed the day-to-day operations of the campus’s 24-hour not-for-profit college radio station, including daily programming, site maintenance, and program production.		
-<br>
+<br><br>
 
 ### Refereed convention papers
 “‘Head Thrown Back, Eyes Alert’: Sharing Nature in the *Columbus Dispatch* Column of Edward Sinclair Thomas.” Paper presented at the 34th annual conference of the American Journalism Historians Association, St. Petersburg, FL, 2016.
@@ -56,7 +56,7 @@ Chaired by Dr. Lisa Parcell, Wichita State University.
 “Crafty Ads: Corporate Branding and Product Nesting in the Arts and Crafts Magazine The Craftsman.” Paper presented at the 32nd annual conference of the American Journalism Historians Association, New Orleans, LA, 2013.
 
 “Digital Dependence: Information-Seeking Habits of Milennials in Distress.” Paper presented at the 34th annual conference of the Southwest/Texas Popular Culture and American Culture Association, Albuquerque, NM, 2013.
-<br>
+<br><br>
 
 ### Classes taught
 
@@ -90,6 +90,7 @@ Adjunct Instructor, Bethel College, North Newton, KS, 2013-2014
 Graduate Teaching Assistant, Elliott School of Comm., Wichita State University, 2012-2014
 
 * **Public Speaking (COMM 111):** A course required of all students at the university, public speaking provides organizational techniques, methods of persuasion, and a variety of other tools to help present ideas to live audiences.
+<br><br>
 
 ### Service
 
@@ -111,6 +112,7 @@ Served as the top-ranking member beneath the president of the university body re
 * **Member, COMM 111 Basic Course Committee, Wichita State University, 2013-2015:** Represent concerns of graduate teaching assistants regarding the development and implementation of the public speaking course curriculum.
 
 * **President, Elliott School Graduate Student Association, Wichita State University, 2013-2014:** Established and lead an organization to increase the sense of community among graduate students within the Elliott School of Communication.
+<br><br>
 
 ### Panels, talks, and non-refereed papers
 Moderator, Ohio Leaders: A Conversation on Leadership with Colleagues of Senator Voinovich. Panel discussion hosted by the Ohio University Graduate Student Senate, Athens, OH, 2016.
@@ -122,9 +124,11 @@ Moderator, “‘If I Could Do It All Again’: Advice for New and Rising Journa
 “Giving and Receiving: Strengthening the Relationship between Student Teachers and Their Universities.” Address to the spring 2015 of the Wichita State University National Advisory Council, Wichita, KS, 2015.
 
 “The Search for Meaning: Poetic Case Studies of McLuhan’s Medium as Message.” Paper presented at the Bethel College Undergraduate Research, Internships, and Creative Activity Symposium, North Newton, KS, 2011.
+<br><br>
 
 ### Contest judge
 Pennsylvania NewsMedia Association (PNA) Foundation contest, community service category, 2015.
+<br><br>
 
 ### Awards
 
