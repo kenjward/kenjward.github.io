@@ -9,32 +9,26 @@ title: Ken Ward CV
 ## Updated December 6, 2016
 
 ### Education
-Ph.D. in Journalism, E.W. Scripps School of Journalism, Ohio University, advised by Dr. Mike Sweeney, anticipated 2018
-Certificate in Contemporary History, Contemporary History Institute, Ohio University, anticipated 2018
-M.A. in Communication, Wichita State University, 3.98 GPA, advised by Dr. Lisa Parcell, 2014
-B.A. in Communication, Bethel College, North Newton, KS, 3.49 GPA, advised by Dr. Christine Crouse-Dick, 2011
+* Ph.D. in Journalism, E.W. Scripps School of Journalism, Ohio University, advised by Dr. Mike Sweeney, anticipated 2018
+* Certificate in Contemporary History, Contemporary History Institute, Ohio University, anticipated 2018
+* M.A. in Communication, Wichita State University, 3.98 GPA, advised by Dr. Lisa Parcell, 2014
+* B.A. in Communication, Bethel College, North Newton, KS, 3.49 GPA, advised by Dr. Christine Crouse-Dick, 2011
 
 ### Doctoral Dissertation (in progress)
-Description	A historical analysis of the competition between the Denver Post and Rocky Mountain News, following major developments at both newspapers from their inceptions in the nineteenth century through periods of intense competition in the twentieth century, concluding with a detailed investigation of the causes leading to the 2009 closure of the Rocky Mountain News.
-Chair: Dr. Mike Sweeney, Ohio University
+A historical analysis of the competition between the Denver Post and Rocky Mountain News, following major developments at both newspapers from their inceptions in the nineteenth century through periods of intense competition in the twentieth century, concluding with a detailed investigation of the causes leading to the 2009 closure of the Rocky Mountain News. Chair by Dr. Mike Sweeney, Ohio University.
 
-### Master’s Thesis
-Title: “Section and Silver: Editorial Representations of Political Regionalism and Bimetallism in the Cripple Creek Mining District Press, 1894-1904”
-Description	An analysis of the utilization of the so-called “silver question” by newspaper editors in Colorado’s Cripple Creek Mining District. Findings suggest questions surrounding federal bimetallism monetary policy had a much stronger influence on editors in the US Mountain West than previously understood by media historians.
-Chair: Dr. Lisa Parcell, Wichita State University
+### Master’s Thesis: “Section and Silver: Editorial Representations of Political Regionalism and Bimetallism in the Cripple Creek Mining District Press, 1894-1904”
+An analysis of the utilization of the so-called “silver question” by newspaper editors in Colorado’s Cripple Creek Mining District. Findings suggest questions surrounding federal bimetallism monetary policy had a much stronger influence on editors in the US Mountain West than previously understood by media historians.
+Chaired by Dr. Lisa Parcell, Wichita State University.
 
 ### Refereed Articles
 “Crafty Ads: Branding and Product Nesting in the Arts and Crafts Magazine The Craftsman,” Journal of Magazine and New Media Research (publication pending).
 
 ### Industry Experience		
-Staff Writer, The McPherson Sentinel, McPherson, KS, 2011-2012.
-Full-time writer and reporter on the city and county beats and editorial page editor. In addition to writing and editing, was responsible for laying out and proofing several pages daily, photographing and capturing video to compliment assignments, and updating the newspaper’s website. Received award from the Kansas Press Association for news and editorial writing.
-Radio Producer, 1410 KGSO AM, Wichita, KS, 2008-2009	
-Produced numerous programs and commercial advertisements for a major sports radio station in Wichita. Primary duty was producing live broadcasts of Wichita Wingnuts baseball games. Was promoted to radio producer after three months of internship at the station.
-2Editorialist and Reporter, The Collegian, Bethel College, KS, 2009-2011	
-Wrote a regular humor column and covered news stories for the college newspaper, The Collegian. 
-Student Station Manager, Producer, 88.1 KBCU FM, Bethel College, KS, 2008-2009	
-Managed the day-to-day operations of the campus’s 24-hour not-for-profit college radio station, including daily programming, site maintenance, and program production.		
+* *Staff Writer, The McPherson Sentinel, McPherson, KS, 2011-2012.* Full-time writer and reporter on the city and county beats and editorial page editor. In addition to writing and editing, was responsible for laying out and proofing several pages daily, photographing and capturing video to compliment assignments, and updating the newspaper’s website. Received award from the Kansas Press Association for news and editorial writing.
+* *Radio Producer, 1410 KGSO AM, Wichita, KS, 2008-2009.* Produced numerous programs and commercial advertisements for a major sports radio station in Wichita. Primary duty was producing live broadcasts of Wichita Wingnuts baseball games. Was promoted to radio producer after three months of internship at the station.
+* *Editorialist and Reporter, The Collegian, Bethel College, KS, 2009-2011.* Wrote a regular humor column and covered news stories for the college newspaper, The Collegian. 
+* *Student Station Manager, Producer, 88.1 KBCU FM, Bethel College, KS, 2008-2009.* Managed the day-to-day operations of the campus’s 24-hour not-for-profit college radio station, including daily programming, site maintenance, and program production.		
 
 ### Refereed Convention Papers
 “‘Head Thrown Back, Eyes Alert’: Sharing Nature in the Columbus Dispatch Column of Edward Sinclair Thomas.” Paper presented at the 34th annual conference of the American Journalism Historians Association, St. Petersburg, FL, 2016.
