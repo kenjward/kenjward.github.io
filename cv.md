@@ -69,6 +69,7 @@ Teaching Assistant, E.W. Scripps School of Journalism, Ohio University, 2015-201
 * **Multiplatform Reporting Lab (JOUR 2311):** The lab section of a course that teaches basic reporting skills form multiple distribution platforms. It focuses on the fundamentals of reporting including AP style, newswriting, interviewing, and media ethics, as well as advanced topics such as video production and editing.
 
 Instructor, Elliott School of Communication, Wichita State University, 2014-2015
+
 * **Historical and Theoretical Issues in Communication (COMM 631):** An undergraduate and graduate-level course that provides an introduction to the predominant theories in communication studies as well as an overview of the history of mass media and its study in the United States.
 
 * **Mass Media Writing (COMM 301):** In this basic writing skills course for all communication students in the department, students learn to write for a variety of mass media platforms and fields, including print and electronic news, public relations, and advertising.
@@ -132,16 +133,16 @@ Pennsylvania NewsMedia Association (PNA) Foundation contest, community service c
 
 ### Awards
 
-* Runner Up—Robert Lance Memorial Award for Top Student Paper, 2016
+Runner Up—Robert Lance Memorial Award for Top Student Paper, 2016
 
-* American Journalism Historians Association
+American Journalism Historians Association
 Second Place Paper—History Division, 2016
 Association for Education in Journalism and Mass Communication
 
-* Overall Winner—2015 Excellence in Teaching Award, 2015
+Overall Winner—2015 Excellence in Teaching Award, 2015
 Midwestern Association of Graduate Schools
 Top Master’s Thesis, 2015
 
-* Elliott School of Communication, Wichita State University
+Elliott School of Communication, Wichita State University
 Robert Lance Memorial Award for Top Student Paper, 2013
 American Journalism Historians Association
