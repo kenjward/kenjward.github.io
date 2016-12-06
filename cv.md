@@ -3,11 +3,11 @@ layout: default
 title: Ken Ward CV
 ---
 
-# Ken Ward
+# <a href="https://kenjward.github.io">Ken Ward</a>
 
 #### PhD Student, E. W. Scripps School of Journalism, Ohio University
 
-#### kw749014@ohio.edu  |  316-204-5974
+#### <a href="mailto:kw749014@ohio.edu">kw749014@ohio.edu</a>  |  316-204-5974
 
 #### Updated December 6, 2016. Documents are hyperlinked where applicable.
 
@@ -27,7 +27,7 @@ title: Ken Ward CV
 A historical analysis of the competition between the *Denver Post* and *Rocky Mountain News*, following major developments at both newspapers from their inceptions in the nineteenth century through periods of intense competition in the twentieth century, concluding with a detailed investigation of the causes leading to the 2009 closure of the *Rocky Mountain News*. Chaired by Dr. Mike Sweeney, Ohio University.
 <br><br>
 
-### Master’s thesis: “Section and Silver: Editorial Representations of Political Regionalism and Bimetallism in the Cripple Creek Mining District Press, 1894-1904”
+### <a href="/cv/ken-ward-thesis.pdf">Master’s thesis: “Section and Silver: Editorial Representations of Political Regionalism and Bimetallism in the Cripple Creek Mining District Press, 1894-1904”</a>
 An analysis of the utilization of the so-called “silver question” by newspaper editors in Colorado’s Cripple Creek Mining District. Findings suggest questions surrounding federal bimetallism monetary policy had a much stronger influence on editors in the US Mountain West than previously understood by media historians.
 Chaired by Dr. Lisa Parcell, Wichita State University.
 <br><br>
