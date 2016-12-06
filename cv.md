@@ -47,22 +47,22 @@ Chaired by Dr. Lisa Parcell, Wichita State University.
 <br><br>
 
 ### Refereed convention papers
-“‘Head Thrown Back, Eyes Alert’: Sharing Nature in the *Columbus Dispatch* Column of Edward Sinclair Thomas.” Paper presented at the 34th annual conference of the American Journalism Historians Association, St. Petersburg, FL, 2016.
+<a href="/cv/ken-ward-head-thrown-back">“‘Head Thrown Back, Eyes Alert’: Sharing Nature in the *Columbus Dispatch* Column of Edward Sinclair Thomas.”</a> Paper presented at the 34th annual conference of the American Journalism Historians Association, St. Petersburg, FL, 2016.
 
-"The Espionage Conviction of Kansas City Editor Jacob Frohwerk: 'A Clear and Present Danger' to the United States.” Paper presented at the 2016 annual conference of the Association for Education in Journalism and Mass Communication, Minneapolis, MN, 2016.
+<!--<a href="/cv/ward-edmondson-espionage-conviction">-->"The Espionage Conviction of Kansas City Editor Jacob Frohwerk: 'A Clear and Present Danger' to the United States.”<!--</a>--> Paper presented at the 2016 annual conference of the Association for Education in Journalism and Mass Communication, Minneapolis, MN, 2016.
 
-“State Before Self: A Study of Silver and Sectionalism in the Cripple Creek Mining District Press, 1896-1904.” Paper presented at the 33rd annual conference of the American Journalism Historians Association, St. Paul, MN, 2014.
+<a href="/cv/ken-ward-state-before-self">“State Before Self: A Study of Silver and Sectionalism in the Cripple Creek Mining District Press, 1896-1904.”</a> Paper presented at the 33rd annual conference of the American Journalism Historians Association, St. Paul, MN, 2014.
 
-“Crafty Ads: Corporate Branding and Product Nesting in the Arts and Crafts Magazine The Craftsman.” Paper presented at the 32nd annual conference of the American Journalism Historians Association, New Orleans, LA, 2013.
+<a href="/cv/ken-ward-crafty-ads-1">“Crafty Ads: Corporate Branding and Product Nesting in the Arts and Crafts Magazine The Craftsman.”</a> Paper presented at the 32nd annual conference of the American Journalism Historians Association, New Orleans, LA, 2013.
 
-“Digital Dependence: Information-Seeking Habits of Milennials in Distress.” Paper presented at the 34th annual conference of the Southwest/Texas Popular Culture and American Culture Association, Albuquerque, NM, 2013.
+<a href="/cv/ken-ward-digital-dependency">“Digital Dependency: Information-Seeking Habits of Milennials in Distress.”</a> Paper presented at the 34th annual conference of the Southwest/Texas Popular Culture and American Culture Association, Albuquerque, NM, 2013.
 <br><br>
 
 ### Classes taught
 
 Teaching Assistant, E.W. Scripps School of Journalism, Ohio University, 2015-2017
 
-* **Strategic Social Media (JOUR 4530):** This course enhances students’ understanding of social media, identifying the strengths and weaknesses of various platforms and they ways they can be used in media and marketing settings. Using a campaign-oriented approach, students apply skills learned in classroom lectures and discussions in real-world social media projects for clients outside the university.
+* **<a href="http://www.ohiousocial.me">Strategic Social Media (JOUR 4530)</a>:** This course enhances students’ understanding of social media, identifying the strengths and weaknesses of various platforms and they ways they can be used in media and marketing settings. Using a campaign-oriented approach, students apply skills learned in classroom lectures and discussions in real-world social media projects for clients outside the university.
 
 * **Editing (JOUR 3330):** A course for upper-level journalism students that teaches editing skills including copyediting, news selection, photo processing, print and web layout, and basic web coding.
 
