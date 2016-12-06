@@ -59,6 +59,7 @@ Chaired by Dr. Lisa Parcell, Wichita State University.
 <br>
 
 ## Classes taught
+
 Teaching Assistant, E.W. Scripps School of Journalism, Ohio University, 2015-2017
 * **Strategic Social Media (JOUR 4530):** This course enhances students’ understanding of social media, identifying the strengths and weaknesses of various platforms and they ways they can be used in media and marketing settings. Using a campaign-oriented approach, students apply skills learned in classroom lectures and discussions in real-world social media projects for clients outside the university.
 * **Editing (JOUR 3330):** A course for upper-level journalism students that teaches editing skills including copyediting, news selection, photo processing, print and web layout, and basic web coding.
