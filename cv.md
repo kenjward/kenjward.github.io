@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ken Ward, CV
+title: Ken Ward CV
 ---
 
 # Kenneth Ward
