@@ -61,6 +61,7 @@ Chaired by Dr. Lisa Parcell, Wichita State University.
 ### Classes taught
 
 Teaching Assistant, E.W. Scripps School of Journalism, Ohio University, 2015-2017
+
 * **Strategic Social Media (JOUR 4530):** This course enhances students’ understanding of social media, identifying the strengths and weaknesses of various platforms and they ways they can be used in media and marketing settings. Using a campaign-oriented approach, students apply skills learned in classroom lectures and discussions in real-world social media projects for clients outside the university.
 
 * **Editing (JOUR 3330):** A course for upper-level journalism students that teaches editing skills including copyediting, news selection, photo processing, print and web layout, and basic web coding.
@@ -79,6 +80,7 @@ Instructor, Elliott School of Communication, Wichita State University, 2014-2015
 * **Public Speaking (COMM 111):** A course required of all students at the university, public speaking provides organizational techniques, methods of persuasion, and a variety of other tools to help present ideas to live audiences.
 
 Adjunct Instructor, Bethel College, North Newton, KS, 2013-2014
+
 * **Gender, Race, Class, and Media (COA 313):** An upper-level course requiring students to critically engage the media and its intersection with issues of gender, race, and class.
 
 * **Introduction to Communication (COA 202):** For most students, this course is an initial foray into the world of communication studies. It focuses on basic communication models and theory taught through observation and classroom discussion rather than lecture.
@@ -90,15 +92,24 @@ Graduate Teaching Assistant, Elliott School of Comm., Wichita State University, 
 * **Public Speaking (COMM 111):** A course required of all students at the university, public speaking provides organizational techniques, methods of persuasion, and a variety of other tools to help present ideas to live audiences.
 
 ### Service
+
 * **Registrar, American Journalism Historians Association, 2016-2021:** Responsible for managing the pre-registration and check-in of attendees of AJHA’s annual national conference. Position reports to the AJHA president and requires
+
 * **VP of Legislative Affairs, Graduate Student Senate, Ohio University, 2016:**
 Served as the top-ranking member beneath the president of the university body responsible for representing the concerns of all graduate students on campus. Involved regular meetings with the university president and other officials as well as the management of biweekly meetings of the senate body.
+
 * **Editorial Assistant, Journalism History, 2015-2016:** Copyedited and proofread articles and other content for publication in Journalism History, one of two academic journals dedicated to research on the history of journalism and the media.
+
 * **Editorial Assistant, Journal of Magazine &amp New Media Research, 2015:** Copyedited and proofread articles and other content for publication in the Journal of Magazine &amp New Media Research, the academic journal of the AEJMC Magazine Division.
+
 * **Representative of the Journalism Department, Graduate Student Senate, Ohio University, 2015-2016:** Advocated to the general body of the graduate student senate on behalf of graduate students in the Department of Journalism.
+
 * **Co-Chair, Graduate Student Committee, American Journalism Historians Association, 2014-2015:** Responsible for recruiting and advocating for graduate student members of AJHA.
+
 * **Member, Membership Committee, American Journalism Historians Association, 2014-2016:** Assist in the recruitment and retention of members of AJHA, focusing on bringing the membership and graduate student committees closer together.
+
 * **Member, COMM 111 Basic Course Committee, Wichita State University, 2013-2015:** Represent concerns of graduate teaching assistants regarding the development and implementation of the public speaking course curriculum.
+
 * **President, Elliott School Graduate Student Association, Wichita State University, 2013-2014:** Established and lead an organization to increase the sense of community among graduate students within the Elliott School of Communication.
 
 ### Panels, talks, and non-refereed papers
@@ -116,13 +127,17 @@ Moderator, “‘If I Could Do It All Again’: Advice for New and Rising Journa
 Pennsylvania NewsMedia Association (PNA) Foundation contest, community service category, 2015.
 
 ### Awards
+
 * Runner Up—Robert Lance Memorial Award for Top Student Paper, 2016
+
 * American Journalism Historians Association
 Second Place Paper—History Division, 2016
 Association for Education in Journalism and Mass Communication
+
 * Overall Winner—2015 Excellence in Teaching Award, 2015
 Midwestern Association of Graduate Schools
 Top Master’s Thesis, 2015
+
 * Elliott School of Communication, Wichita State University
 Robert Lance Memorial Award for Top Student Paper, 2013
 American Journalism Historians Association
