@@ -7,6 +7,6 @@ title: Back Door
 
 # The Back DDoorr
 
-![](/back-door/test.gif)
+![](/back-door-media/test.gif)
 
-![](/back-door/film.jpg)
+![](/back-door-media/film.jpg)
