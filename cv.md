@@ -33,7 +33,8 @@ Chaired by Dr. Lisa Parcell, Wichita State University.
 <br><br>
 
 ### Refereed articles
-“Crafty Ads: Branding and Product Nesting in the Arts and Crafts Magazine The Craftsman,” Journal of Magazine and New Media Research (publication pending).
+<a href="/cv/ken-ward-crafty-ads-journal.pdf">“Crafty Ads: Branding and Product Nesting in the Arts and Crafts Magazine
+The Craftsman,”</a> Journal of Magazine and New Media Research 17, no. 2 (Winter 2017): 1–20.
 <br><br>
 
 ### Industry experience
@@ -53,14 +54,14 @@ Chaired by Dr. Lisa Parcell, Wichita State University.
 
 <a target="_new" href="/cv/ken-ward-state-before-self.pdf">“State Before Self: A Study of Silver and Sectionalism in the Cripple Creek Mining District Press, 1896-1904.”</a> Paper presented at the 33rd annual conference of the American Journalism Historians Association, St. Paul, MN, 2014.
 
-<a target="_new" href="/cv/ken-ward-crafty-ads-1.pdf">“Crafty Ads: Corporate Branding and Product Nesting in the Arts and Crafts Magazine The Craftsman.”</a> Paper presented at the 32nd annual conference of the American Journalism Historians Association, New Orleans, LA, 2013.
+<a target="_new" href="/cv/ken-ward-crafty-ads-conference.pdf">“Crafty Ads: Corporate Branding and Product Nesting in the Arts and Crafts Magazine The Craftsman.”</a> Paper presented at the 32nd annual conference of the American Journalism Historians Association, New Orleans, LA, 2013.
 
 <a target="_new" href="/cv/ken-ward-digital-dependency.pdf">“Digital Dependency: Information-Seeking Habits of Milennials in Distress.”</a> Paper presented at the 34th annual conference of the Southwest/Texas Popular Culture and American Culture Association, Albuquerque, NM, 2013.
 <br><br>
 
 ### Classes taught
 
-Teaching Assistant, E.W. Scripps School of Journalism, Ohio University, 2015-2017
+Scripps Howard Teaching Fellow, E.W. Scripps School of Journalism, Ohio University, 2015-2017
 
 * **<a target="_blank" href="http://www.ohiousocial.me">Strategic Social Media (JOUR 4530)</a>:** This course enhances students’ understanding of social media, identifying the strengths and weaknesses of various platforms and they ways they can be used in media and marketing settings. Using a campaign-oriented approach, students apply skills learned in classroom lectures and discussions in real-world social media projects for clients outside the university.
 
@@ -117,6 +118,8 @@ Served as the top-ranking member beneath the president of the university body re
 <br><br>
 
 ### Panels, talks, and non-refereed papers
+“Breaking Down Breaking News: A Classroom Game for Simulating Evolving Settings." Panel presentation at the 2nd annual Perfecting Pedagogical Practices conference, Ohio University, Athens, OH.
+
 Moderator, Ohio Leaders: A Conversation on Leadership with Colleagues of Senator Voinovich. Panel discussion hosted by the Ohio University Graduate Student Senate, Athens, OH, 2016.
 
 Moderator, “‘If I Could Do It All Again’: Advice for New and Rising Journalism History Scholars.” Panel discussion at the 34th annual conference of the American Journalism Historians Association, Oklahoma City, OK, 2015.
