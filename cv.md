@@ -92,7 +92,6 @@ Adjunct Instructor, Bethel College, North Newton, KS, 2013-2014
 Graduate Teaching Assistant, Elliott School of Communication, Wichita State University, 2012-2014
 
 * **Public Speaking (COMM 111):** A course required of all students at the university, public speaking provides organizational techniques, methods of persuasion, and a variety of other tools to help present ideas to live audiences.
-
 <br><br>
 
 ### Service
