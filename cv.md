@@ -101,19 +101,19 @@ Graduate Teaching Assistant, Elliott School of Communication, Wichita State Univ
 * **VP of Legislative Affairs, Graduate Student Senate, Ohio University, 2016:**
 Served as the top-ranking member beneath the president of the university body responsible for representing the concerns of all graduate students on campus. Involved regular meetings with the university president and other officials as well as the management of biweekly meetings of the senate body.
 
-* **Editorial Assistant, Journalism History, 2015-2016:** Copyedited and proofread articles and other content for publication in Journalism History, one of two academic journals dedicated to research on the history of journalism and the media.
+**Editorial Assistant, Journalism History, 2015-2016:** Copyedited and proofread articles and other content for publication in Journalism History, one of two academic journals dedicated to research on the history of journalism and the media.
 
-* **Editorial Assistant, Journal of Magazine &amp New Media Research, 2015:** Copyedited and proofread articles and other content for publication in the Journal of Magazine &amp New Media Research, the academic journal of the AEJMC Magazine Division.
+**Editorial Assistant, Journal of Magazine &amp New Media Research, 2015:** Copyedited and proofread articles and other content for publication in the Journal of Magazine &amp New Media Research, the academic journal of the AEJMC Magazine Division.
 
-* **Representative of the Journalism Department, Graduate Student Senate, Ohio University, 2015-2016:** Advocated to the general body of the graduate student senate on behalf of graduate students in the Department of Journalism.
+**Representative of the Journalism Department, Graduate Student Senate, Ohio University, 2015-2016:** Advocated to the general body of the graduate student senate on behalf of graduate students in the Department of Journalism.
 
-* **Co-Chair, Graduate Student Committee, American Journalism Historians Association, 2014-2015:** Responsible for recruiting and advocating for graduate student members of AJHA.
+**Co-Chair, Graduate Student Committee, American Journalism Historians Association, 2014-2015:** Responsible for recruiting and advocating for graduate student members of AJHA.
 
-* **Member, Membership Committee, American Journalism Historians Association, 2014-2016:** Assist in the recruitment and retention of members of AJHA, focusing on bringing the membership and graduate student committees closer together.
+**Member, Membership Committee, American Journalism Historians Association, 2014-2016:** Assist in the recruitment and retention of members of AJHA, focusing on bringing the membership and graduate student committees closer together.
 
-* **Member, COMM 111 Basic Course Committee, Wichita State University, 2013-2015:** Represent concerns of graduate teaching assistants regarding the development and implementation of the public speaking course curriculum.
+**Member, COMM 111 Basic Course Committee, Wichita State University, 2013-2015:** Represent concerns of graduate teaching assistants regarding the development and implementation of the public speaking course curriculum.
 
-* **President, Elliott School Graduate Student Association, Wichita State University, 2013-2014:** Established and lead an organization to increase the sense of community among graduate students within the Elliott School of Communication.
+**President, Elliott School Graduate Student Association, Wichita State University, 2013-2014:** Established and lead an organization to increase the sense of community among graduate students within the Elliott School of Communication.
 <br><br>
 
 ### Panels, talks, and non-refereed papers
