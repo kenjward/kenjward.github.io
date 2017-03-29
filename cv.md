@@ -96,9 +96,9 @@ Graduate Teaching Assistant, Elliott School of Communication, Wichita State Univ
 
 ### Service
 
-* **Registrar, American Journalism Historians Association, 2016-2021:** Responsible for managing the pre-registration and check-in of attendees of AJHA’s annual national conference. Position reports to the AJHA president and requires
+**Registrar, American Journalism Historians Association, 2016-2021:** Responsible for managing the pre-registration and check-in of attendees of AJHA’s annual national conference. Position reports to the AJHA president and requires
 
-* **VP of Legislative Affairs, Graduate Student Senate, Ohio University, 2016:**
+**VP of Legislative Affairs, Graduate Student Senate, Ohio University, 2016:**
 Served as the top-ranking member beneath the president of the university body responsible for representing the concerns of all graduate students on campus. Involved regular meetings with the university president and other officials as well as the management of biweekly meetings of the senate body.
 
 **Editorial Assistant, Journalism History, 2015-2016:** Copyedited and proofread articles and other content for publication in Journalism History, one of two academic journals dedicated to research on the history of journalism and the media.
